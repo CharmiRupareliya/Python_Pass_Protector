@@ -13,7 +13,7 @@ Pass Protector - A Secure Python Password Manager
 3.Colorama Integration: The program utilizes the colorama library to display colorful output for a more visually appealing experience.
 4.Clear Instructions: The code includes comments to enhance readability and understanding.
 
->>Adding and Viewing Passwords:
+>>Instructions for Adding and Viewing Passwords:
 
 1.Adding a New Password: When prompted to "add," enter the account name and your password. Pass Protector will encrypt the password and store it securely with the account name in a file named "passwords.txt."
 2.Viewing Existing Passwords: Choosing "view" will display a list of your stored account names and their decrypted passwords.
